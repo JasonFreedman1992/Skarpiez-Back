@@ -1,0 +1,19 @@
+{
+  "name": "robotserch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Freedman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "casperjs": "^1.1.4",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "puppeteer": "^1.14.0"
+  },
+  "devDependencies": {}
+}
